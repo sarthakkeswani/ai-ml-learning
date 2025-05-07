@@ -1,0 +1,17 @@
+# Ignore virtual environment
+ai_env/
+venv/
+.env/
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore large files
+*.dylib
+*.so
+*.pkl
+*.h5
+*.zip
+*.tar.gz
+
+# Ignore OS files
+.DS_Store
